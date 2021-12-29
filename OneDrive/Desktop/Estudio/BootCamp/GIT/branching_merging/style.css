@@ -1,0 +1,24 @@
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.container {
+  width: 500px;
+  height: auto;
+  background-color: black;
+}
+
+p,
+h1 {
+  color: white;
+}
+
+img {
+  width: 200px;
+  height: 200px;
+  display: inline-block;
+  vertical-align: top;
+  border: white 2px solid;
+}
